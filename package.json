@@ -19,6 +19,7 @@
     "dev:android": "taro build --type rn --platform android",
     "dev:alipay": "npm run build:alipay -- --watch",
     "dev:tt": "npm run build:tt -- --watch",
+    "dev:rn": "npm run build:rn -- --watch",
     "dev:qq": "npm run build:qq -- --watch"
   },
   "browserslist": [
