@@ -1,5 +1,5 @@
 const config = {
-  projectName: 'ftaro',
+  projectName: 'ftaros',
   date: '2021-7-1',
   designWidth: 750,
   deviceRatio: {
